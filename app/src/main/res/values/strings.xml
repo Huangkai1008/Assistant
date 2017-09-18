@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">运动助手</string>
+    <string name="steps_str">今日步数</string>
+    <string name="steps_num">0</string>
+    <string name="steps_target">目标：</string>
+    <string name="steps_target_num">300000</string>
+</resources>
